@@ -12,6 +12,7 @@ list_of_files = [
     f"components/model_trainer.py",
     f"components/model_evaluation.py",
     f"components/model_pusher.py",
+    f"configuration/__init__.py",
     f"configuration/gcloud_sync.py",
     f"constants/__init__.py",
     f"entity/__init__.py",
